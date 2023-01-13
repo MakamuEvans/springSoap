@@ -1,0 +1,190 @@
+<message>
+    <message_header>
+        <sender>CMA</sender>
+        <receiver>iCMS</receiver>
+        <module>MAN</module>
+        <action>9</action>
+        <information>iCMS_Receive_Manifest</information>
+        <message_hash>b52978b3d85fef1ee0c38a15ffde31b242ec990e7f8893cf18267e18da8caa4a</message_hash>
+        <message_version>1</message_version>
+        <message_date>2021-08-03T21:22:20</message_date>
+    </message_header>
+    <message_body>
+        <sd>
+            <cus_office_country>KE</cus_office_country>
+            <exit_office_sub2>MBA</exit_office_sub2>
+            <exit_office_sub3>MSA</exit_office_sub3>
+            <carrieragent>
+                <registered>Y</registered>
+                <carrierpin>P051171485W</carrierpin>
+                <businessnation/>
+                <businessname/>
+                <businessaddr/>
+            </carrieragent>
+            <trans_mode>1</trans_mode>
+            <trade_movement>I</trade_movement>
+            <exp_date>2023-01-13T10:33:00</exp_date>
+            <dispatch_ctr>LK</dispatch_ctr>
+            <unload_place>KEMBA</unload_place>
+            <trans_nationality>LR</trans_nationality>
+            <trans_id>D5PT8</trans_id>
+            <voyage_no>04G9NW1MA</voyage_no>
+            <booking_no/>
+            <nil_cargo>N</nil_cargo>
+            <onboard>N</onboard>
+            <remark/>
+            <Consolidated_TD>
+                <ref_sd_reg_no/>
+                <ref_td_prefix/>
+                <ref_td_bill_code/>
+            </Consolidated_TD>
+            <td>
+                <td_prefix>LKCMB</td_prefix>
+                <td_bill_code>AID0212037</td_bill_code>
+                <consignment_no>2</consignment_no>
+                <ucrn/>
+                <consignee>
+                    <registered>N</registered>
+                    <trnumber/>
+                    <businessnation>UG</businessnation>
+                    <businessname>M/S PREMIER DISTILLERIES LTD</businessname>
+                    <businessaddr>PLOT NO 114/115 BOMBO ROAD KAWEMPE, KAMPALA UGANDA</businessaddr>
+                </consignee>
+                <consignor>
+                    <registered>N</registered>
+                    <trnumber/>
+                    <businessnation>IN</businessnation>
+                    <businessname>M/S VASHAVI SPEC CHEM</businessname>
+                    <businessaddr>608, AYYANAR KOIL STREET, L N PURAM,PANRUTI TALUK, TAMIL NADU - 607106 GST: 33AC
+                    </businessaddr>
+                </consignor>
+                <notify_party_trno/>
+                <notify_name>M/S PREMIER DISTILLERIES LTD</notify_name>
+                <first_port>KEMBA</first_port>
+                <first_port_date>2023-01-13T10:33:00</first_port_date>
+                <transport_equ_id/>
+                <routing>MY,HK,CN,ID,MY,SG,MY,LK,KE,TZ</routing>
+                <final_dest_loc_city/>
+                <pay_method/>
+                <remarks/>
+                <cons_flag>N</cons_flag>
+                <tranship_flag>N</tranship_flag>
+                <load_place>LKCMB</load_place>
+                <load_date>2021-08-09</load_date>
+                <place_of_delivery>KEMBA</place_of_delivery>
+                <direct_delivery_indicator>3</direct_delivery_indicator>
+                <cargo_type>CN</cargo_type>
+                <goods_desc/>
+                <nominated_temp_storage>MSA</nominated_temp_storage>
+                <lp>
+                    <lp_type>BA</lp_type>
+                    <lp_no>1</lp_no>
+                    <decl_qty>80</decl_qty>
+                    <lp_marks>AS PER INVOICE and PACKING LIST</lp_marks>
+                    <decl_gross_wgt>17040.000</decl_gross_wgt>
+                    <net_weight>18000.000</net_weight>
+                    <volume_unit>MTQ</volume_unit>
+                    <volume>25.000</volume>
+                    <goods_origin_country>IN</goods_origin_country>
+                    <description>01X20 80 BARRELS OF VASHCAS-SIO SILICON DEFOAMER (205 KGS/BARREL) HS CODE: 34021110 IEC
+                        NO# 2506001131 INVOICE NO# EXP/001/21-22/01.07.2021 SB NO: 3132356 DTD 14.07.2021 TOTAL NET WT:
+                        16400.000 KGS FREIGHT PREPAID &amp;quot;GOODS IN TRANSIT TO KAMPALA, UGANDA ON CONSIGNEE RISK
+                        and A/C AND CARRIER RESPONSIBILITY CEASES AT KENYA.&amp;quot;
+                    </description>
+                    <commodity>9616200000</commodity>
+                    <UNDangerousGoods/>
+                    <remarks/>
+                    <temperature/>
+                    <container_ref>FCIU3675440</container_ref>
+                    <chassis_num/>
+                    <engine_num/>
+                </lp>
+                <ct>
+                    <container_num>FCIU3675440</container_num>
+                    <container_type/>
+                    <iso_container_type>22G1</iso_container_type>
+                    <seals>P8512771</seals>
+                    <remark/>
+                    <movement_type/>
+                    <full_empty_indicator>5</full_empty_indicator>
+                    <eqpt_weight>2220.00</eqpt_weight>
+                    <eqpt_id_status>3</eqpt_id_status>
+                </ct>
+            </td>
+            <td>
+                <td_prefix>LKCMB</td_prefix>
+                <td_bill_code>AID0212060</td_bill_code>
+                <consignment_no>3</consignment_no>
+                <ucrn/>
+                <consignee>
+                    <registered>N</registered>
+                    <trnumber/>
+                    <businessnation>UG</businessnation>
+                    <businessname>MAKEPASI MATCH LTD</businessname>
+                    <businessaddr>P O BOX NO 54 JINJA UGANDA</businessaddr>
+                </consignee>
+                <consignor>
+                    <registered>N</registered>
+                    <trnumber/>
+                    <businessnation>IN</businessnation>
+                    <businessname>ESS ESS EXPORTS</businessname>
+                    <businessaddr>7/328 SATTUR MAIN ROAD ELAYIRAMPANNAI VIRUDHUNAGAR-626 201 TAMIL NADU INDIA
+                    </businessaddr>
+                </consignor>
+                <notify_party_trno/>
+                <notify_name>MAKEPASI MATCH LTD</notify_name>
+                <first_port>KEMBA</first_port>
+                <first_port_date>2021-08-08T23:00:00</first_port_date>
+                <transport_equ_id/>
+                <routing>MY,HK,CN,ID,MY,SG,MY,LK,KE,TZ</routing>
+                <final_dest_loc_city/>
+                <pay_method/>
+                <remarks/>
+                <cons_flag>N</cons_flag>
+                <tranship_flag>N</tranship_flag>
+                <load_place>LKCMB</load_place>
+                <load_date>2021-08-09</load_date>
+                <place_of_delivery>KEMBA</place_of_delivery>
+                <direct_delivery_indicator>3</direct_delivery_indicator>
+                <cargo_type>CN</cargo_type>
+                <goods_desc/>
+                <nominated_temp_storage>MSA</nominated_temp_storage>
+                <lp>
+                    <lp_type>BG</lp_type>
+                    <lp_no>1</lp_no>
+                    <decl_qty>540</decl_qty>
+                    <lp_marks>NA</lp_marks>
+                    <decl_gross_wgt>19061.000</decl_gross_wgt>
+                    <net_weight>19050.000</net_weight>
+                    <volume_unit>MTQ</volume_unit>
+                    <volume>25.000</volume>
+                    <goods_origin_country>IN</goods_origin_country>
+                    <description>540 BAGS TOTAL 540 BAGS MATCH MAKING RAW MATERIALS INVOICE NO : SSE/06/21 - 22 DATE :
+                        14.07.2021 S.B. NO : 3146801 DT : 15.07.2021 TOTAL GROSS WEIGHT : 19061 KGS TOTAL NET WEIGHT :
+                        18926 KGS &amp;quot;GOODS IN TRANSIT TO JINJA,UGANDA AT RECEIVER S RISK, CARE AND EXPENSES.
+                        CARRIER S LIABILITY CEASES AT MOMBASA, KENYA&amp;quot;. FREIGHT PREPAID
+                    </description>
+                    <commodity>9616200000</commodity>
+                    <UNDangerousGoods/>
+                    <remarks/>
+                    <temperature/>
+                    <container_ref>TCKU2095412</container_ref>
+                    <chassis_num/>
+                    <engine_num/>
+                </lp>
+                <ct>
+                    <container_num>TCKU2095412</container_num>
+                    <container_type/>
+                    <iso_container_type>22G1</iso_container_type>
+                    <seals>P8512692</seals>
+                    <remark/>
+                    <movement_type/>
+                    <full_empty_indicator>5</full_empty_indicator>
+                    <eqpt_weight>2180.00</eqpt_weight>
+                    <eqpt_id_status>3</eqpt_id_status>
+                </ct>
+            </td>
+
+        </sd>
+    </message_body>
+</message>
